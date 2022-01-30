@@ -1,4 +1,4 @@
-### Welcome to my profile! 👋
+### Hi! I'm Estefanía 👋
 
-Hi! I'm Estefanía, a Full Stack student trying to improve everyday. 
+I'm a Full Stack student. 
 
